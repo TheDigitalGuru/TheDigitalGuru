@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm "TheDigitalGuru"
 #### Designing, Developing, and soon to be sharing Tutorials, Videos, &  Other Resources
-![Designing, Developing, and soon to be sharing Tutorials, Videos, &  Other Resources](https://pbs.twimg.com/profile_banners/1640901200487874561/1686078210/1080x360)
+![Designing, Developing, and soon to be sharing Tutorials, Videos, &  Other Resources](https://github.com/TheDigitalGuru/TheDigitalGuru/blob/main/DigiGuruLogoBanner.jpg)
 
 I'm "The Digital Guru" from the United States. I'm mostly self-taught and am hoping to help you along your journey by sharing what I know. I've recently made a website, that I have now also re-made and will be soon uploading the new version. Go have a look and let me know what you think of my landing page and portfolio otherwise.
 
