@@ -1,9 +1,10 @@
 ![Designing, Developing, and soon to be sharing Tutorials, Videos, &  Other Resources](https://github.com/TheDigitalGuru/TheDigitalGuru/blob/main/DigiGuruLogoBanner.jpg)
 
 ### Hi there 👋, I'm "TheDigitalGuru"
-I'm grepping through to you from the United States. I use to have a cellphone, computer and networking service in which I created a solid reputation for myself. As I've closed this service down some time ago, I'm still very much known as "The Digital Guru" amongst my friends and previous clients. As it were, my customer service didn't end with the close of my business, nor did my journey forward into greater endeavors. I'm working my way into a DevOps / Web=Design / Full Stack capacity and I'm mostly self-taught otherwise. As I'm sure you all know how many countless hours goes into a self-taught journey, it is my hope to begin sharing what I've learned and I'm therefore hoping to help you along your journey by sharing what I've learned grepping through it all. 
+I'm grepping through to you from the United States. I use to have a cellphone, computer and networking service in which I created a solid reputation for myself. As I've closed this service down some time ago, I'm still very much known as "The Digital Guru" amongst my friends and previous clients. As it were, my customer service didn't end with the close of my business, nor did my journey forward into greater endeavors. Accordingly, I'm working my way into a DevOps / Web-Design / Full Stack capacity and I'm mostly self-taught otherwise. As I'm sure you all know how many countless hours goes into a self-taught journey, it is my hope to begin sharing what I've learned and am also hoping to learn, collab, and possibly help you along your journey by sharing what I've learned grepping through it all one deep. 
 
-I've recently made a website, that I have now also re-made and will be soon uploading the new version. Go have a look and let me know what you think of my landing page and portfolio otherwise.
+I've recently made a website, that I have now also re-made and will be soon uploading the new version. 
+Go have a look and let me know what you think of my landing page and portfolio otherwise.
 
 ## Skills: REACT / JS / BOOTSTRAP / HTML / CSS / EXCEL / PRIMAVERA P6
 
