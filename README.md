@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**TheDigitalGuru/TheDigitalGuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm "The Digital Guru" from the United States. I am self taught and am hoping to help you along your journey by sharing what I know. I've recently made a website, that I have now also re-made anad will be uploading the new version soon. Go have a look and let me know what you think of my landing page and portfolio. 
 
-Here are some ideas to get you started:
+You can find my website at www.thedigitalguru.tech and connnect with me otherwise here, on GitHub @ https://github.com/TheDigitalGuru!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Or get connected on any of my other social media platforms!
+
+Facebook: https://www.facebook.com/TheDigitalGuru337
+Discord: https://discordapp.com/users/888658178550677545
+Patreon: https://patreon.com/TheDigitalGuru
+Twitter: https://twitter.com/DigitalGuruTech
+YouTube: https://www.youtube.com/@thdigitalguru4life
+
+^^ Although I have not uploaded my first video, I have tons of saved playlist including useful content and hours of grepping my way through resolves implementing or learning from others. I consider this a valuable resource for someone looking to learn, but hope, with the publication of the videos I intend to upload, that it will only become an even more valuable resources for whoever needs it.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDigitalGuru)](https://github.com/anuraghazra/github-readme-stats)
+
