@@ -1,12 +1,10 @@
-### Hi there 👋, I'm "TheDigitalGuru"
-#### Designing, Developing, and soon to be sharing Tutorials, Videos, &  Other Resources
 ![Designing, Developing, and soon to be sharing Tutorials, Videos, &  Other Resources](https://github.com/TheDigitalGuru/TheDigitalGuru/blob/main/DigiGuruLogoBanner.jpg)
 
+### Hi there 👋, I'm "TheDigitalGuru"
 I'm "The Digital Guru" from the United States. I'm mostly self-taught and am hoping to help you along your journey by sharing what I know. I've recently made a website, that I have now also re-made and will be soon uploading the new version. Go have a look and let me know what you think of my landing page and portfolio otherwise.
 
 You can connect with me through my website or any of the provided social media links below!
-
-Skills: REACT / JS / BOOTSTRAP / HTML / CSS / EXCEL / PRIMAVERA P6
+## Skills: REACT / JS / BOOTSTRAP / HTML / CSS / EXCEL / PRIMAVERA P6
 
 - 🔭 I’m currently working on uploading a new website and a bunch of tutorials otherwise 
 - 🌱 I’m currently learning REACT.JS / Docker 
