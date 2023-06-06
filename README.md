@@ -6,11 +6,11 @@ You can find my website at www.thedigitalguru.tech and connnect with me otherwis
 
 Or get connected on any of my other social media platforms!
 
-Facebook: https://www.facebook.com/TheDigitalGuru337
-Discord: https://discordapp.com/users/888658178550677545
-Patreon: https://patreon.com/TheDigitalGuru
-Twitter: https://twitter.com/DigitalGuruTech
-YouTube: https://www.youtube.com/@thdigitalguru4life
+Facebook: https://www.facebook.com/TheDigitalGuru337 <br>
+Discord: https://discordapp.com/users/888658178550677545 <br>
+Patreon: https://patreon.com/TheDigitalGuru <br>
+Twitter: https://twitter.com/DigitalGuruTech <br>
+YouTube: https://www.youtube.com/@thdigitalguru4life <br>
 
 ^^ Although I have not uploaded my first video, I have tons of saved playlist including useful content and hours of grepping my way through resolves implementing or learning from others. I consider this a valuable resource for someone looking to learn, but hope, with the publication of the videos I intend to upload, that it will only become an even more valuable resources for whoever needs it.
 
