@@ -7,6 +7,7 @@ I've recently made a website, that I have now also re-made and will be soon uplo
 Go have a look and let me know what you think of my landing page and portfolio otherwise.
 
 ## Skills: REACT / JS / BOOTSTRAP / HTML / CSS / EXCEL / PRIMAVERA P6
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 
 - 🔭 I’m currently working on uploading a new website and a bunch of tutorials otherwise 
 - 🌱 I’m currently learning REACT.JS / Docker 
@@ -15,7 +16,6 @@ Go have a look and let me know what you think of my landing page and portfolio o
 - 💬 Ask me about My favorite and very much recommended books 
 - 📫 How to reach me: HMU on one of the provided links or on my webpage 
 
-<i class='bx bxl-javascript'></i>
 
 You can connect with me through my website or any of the provided social media links below!
 
