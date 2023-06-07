@@ -7,6 +7,11 @@ I've recently made a website, that I have now also re-made and will be soon uplo
 Go have a look and let me know what you think of my landing page and portfolio otherwise.
 
 ## Skills: 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,jquery,mysql,php,py,cloudflare,visualstudio" />
+  </a>
+</p>
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,discord,jquery,mysql,php,py,cloudflare,visualstudio)]
 
 - 🔭 I’m currently working on uploading a new website and a bunch of tutorials otherwise 
