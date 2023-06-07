@@ -6,9 +6,8 @@ I'm grepping through to you from the United States. I use to have a cellphone, c
 I've recently made a website, that I have now also re-made and will be soon uploading the new version. 
 Go have a look and let me know what you think of my landing page and portfolio otherwise.
 
-
-<p align="center">
 ## Skills: 
+<p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,jquery,mysql,php,py,cloudflare,visualstudio" />
 </p>
 
