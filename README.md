@@ -12,7 +12,6 @@ Go have a look and let me know what you think of my landing page and portfolio o
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,jquery,mysql,php,py,cloudflare,visualstudio" />
   </a>
 </p>
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,discord,jquery,mysql,php,py,cloudflare,visualstudio)]
 
 - 🔭 I’m currently working on uploading a new website and a bunch of tutorials otherwise 
 - 🌱 I’m currently learning REACT.JS / Docker 
