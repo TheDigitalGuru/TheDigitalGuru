@@ -13,11 +13,11 @@ Go have a look and let me know what you think of my landing page and portfolio o
     </a>
 </p>
 
-- 🔭 I’m currently working on uploading a new website and a bunch of tutorials otherwise 
-- 🌱 I’m currently learning REACT.JS / Docker 
-- 👯 I’m looking to collaborate on anything that progresses myself, and each other forwards 
-- 🤔 I’m looking for help making a living through coding; I.E. career change into a field of development;
-- 💬 Ask me about My favorite and very much recommended books 
+- 🔭 I’m currently working on: uploading a new website and a bunch of tutorials otherwise 
+- 🌱 I’m currently learning: REACT.JS / Docker 
+- 👯 I’m looking to: collaborate on anything that progresses myself, and each other forwards 
+- 🤔 I’m looking for: help making a living through coding; I.E. career change into a field of development
+- 💬 Ask me about: My favorite and very much recommended books 
 - 📫 How to reach me: HMU on one of the provided links or on my webpage 
 
 
