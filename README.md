@@ -8,7 +8,9 @@ Go have a look and let me know what you think of my landing page and portfolio o
 
 ## Skills: 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,jquery,mysql,php,py,cloudflare,visualstudio" />
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,jquery,mysql,php,py,cloudflare,visualstudio" />
+    </a>
 </p>
 
 - 🔭 I’m currently working on uploading a new website and a bunch of tutorials otherwise 
