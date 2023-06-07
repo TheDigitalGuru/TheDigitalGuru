@@ -19,7 +19,7 @@ Go have a look and let me know what you think of my landing page and portfolio o
 - 🤔 I’m looking for: help making a living through coding; I.E. career change into a field of development
 - 💬 Ask me about: My favorite and very much recommended books 
 - 📫 How to reach me: You can connect with me through my website or any of the provided social media links below!
-<p align="center">
+
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheDigitalGuru)  
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thedigitalgurutech/)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TheDigitalGuru337)  
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DigitalGuruTech)  
@@ -28,4 +28,4 @@ Go have a look and let me know what you think of my landing page and portfolio o
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.thedigitalguru.tech)  
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/patreon.svg' alt='patreon' height='40'>](https://patreon.com/TheDigitalGuru)  
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/888658178550677545)  
-</p>
+
