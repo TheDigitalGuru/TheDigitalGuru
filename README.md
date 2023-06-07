@@ -9,7 +9,7 @@ Go have a look and let me know what you think of my landing page and portfolio o
 ## Skills: 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,discord,jquery,mysql,php,py,cloudflare,visualstudio" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,js,mysql,php,py,cloudflare,bash,linux,arduino,github,visualstudio">
     </a>
 </p>
 
