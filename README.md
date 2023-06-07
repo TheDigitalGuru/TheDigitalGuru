@@ -6,7 +6,7 @@ I'm grepping through to you from the United States. I use to have a cellphone, c
 I've recently made a website, that I have now also re-made and will be soon uploading the new version. 
 Go have a look and let me know what you think of my landing page and portfolio otherwise.
 
-## Skills: REACT / JS / BOOTSTRAP / HTML / CSS / EXCEL / PRIMAVERA P6
+## Skills: 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,discord,jquery,mysql,php,py,cloudflare,visualstudio)](https://skills.thijs.gg)
 
 - 🔭 I’m currently working on uploading a new website and a bunch of tutorials otherwise 
