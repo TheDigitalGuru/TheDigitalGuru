@@ -15,7 +15,7 @@ Go have a look and let me know what you think of my landing page and portfolio o
 </p>
 
 
-
+## Status:
 - 🔭 I’m currently working on: uploading a new website and a bunch of tutorials otherwise 
 - 🌱 I’m currently learning: REACT.JS / Docker 
 - 👯 I’m looking to: collaborate on anything that progresses myself, and each other forwards 
@@ -24,6 +24,6 @@ Go have a look and let me know what you think of my landing page and portfolio o
 - 📫 How to reach me: You can connect with me through my website or any of the provided social media links below!
 
 
-
+## Get Connected:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheDigitalGuru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thedigitalgurutech/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TheDigitalGuru337)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DigitalGuruTech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21802037/the-digital-guru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@thedigitalgurutech) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.thedigitalguru.tech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/patreon.svg' alt='patreon' height='40'>](https://patreon.com/TheDigitalGuru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/888658178550677545)  
 
