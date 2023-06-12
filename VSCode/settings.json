@@ -1,1 +1,60 @@
-
+{
+	"workbench.colorTheme": "Night Owl Theme",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"terminal.integrated.profiles.windows": {
+		"PowerShell": {
+			"source": "PowerShell",
+			"icon": "terminal-powershell"
+		},
+		"Command Prompt": {
+			"path": [
+				"${env:windir}\\Sysnative\\cmd.exe",
+				"${env:windir}\\System32\\cmd.exe"
+			],
+			"args": [],
+			"icon": "terminal-cmd"
+		},
+		"Git Bash": {
+			"source": "Git Bash"
+		},
+		"Ubuntu (WSL)": {
+			"path": "C:\\WINDOWS\\System32\\wsl.exe",
+			"args": ["-d", "Ubuntu"]
+		}
+	},
+	"terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"prettier.endOfLine": "auto",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.inlineSuggest.enabled": false,
+	"files.autoSave": "onFocusChange",
+	"workbench.iconTheme": "vscode-icons",
+	"editor.autoClosingBrackets": "beforeWhitespace",
+	"editor.fontSize": 16,
+	"explorer.confirmDragAndDrop": false,
+	"javascript.suggest.autoImports": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+		"source.sortImports": true
+	},
+	"editor.mouseWheelZoom": true,
+	"[css]": {
+		"editor.suggest.insertMode": "replace"
+	},
+	"tabnine.experimentalAutoImports": true,
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.language.brackets": [],
+	"terminal.integrated.sendKeybindingsToShell": true,
+	"workbench.startupEditor": "none",
+	"editor.linkedEditing": true,
+	"editor.guides.bracketPairs": true,
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features",
+	}
+	"emmet.includeLanguages": {
+		"javascript: javascriptreact"
+	},
+	"emmet.triggerExpansionOnTab":  true
+}
