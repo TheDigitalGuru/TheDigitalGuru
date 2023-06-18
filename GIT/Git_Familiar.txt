@@ -1,8 +1,11 @@
-Install GIT 
+GitHub Desktop: 
+https://desktop.github.com/
 
-Winodws & Mac: 
-https://git-scm.com/download/win 
-https://git-scm.com/download/mac
+Git: 
+winget install --id Git.Git -e --source winget
+
+GitHub CLI:
+winget install --id GitHub.cli	
 
 Linux (Debian/Ubuntu)
 apt-get install git
