@@ -14,12 +14,18 @@ dnf install git Version 22 and later
 Basic Commands
 
 git init > initialize local git repo
-git add <file> > Add file(s) to staging area
+git add <filename> > Add file(s) to staging area
+git add . > Adds everything in the directory 
+git rm --cached <filename> > removes the file from cache
 git status > Check status of working tree
-git commit > Commit changes in staging area
+git commit > Commit changes in staging area - summarize your changes
 git push > Push to remote repo
 git pull > Pulls latest from remote repo
 git clone > Clone remote repo locally
 git branch <branchname> Create a new branch
 git checkout <branchname> Switch to a branch
 git merge <branchname> Merge a branch with another
+git log > Few all commits
+
+git config --global user.name 'YourUserName'
+git config --global user.email 'YourPrivateorPublicEmailAddress'
