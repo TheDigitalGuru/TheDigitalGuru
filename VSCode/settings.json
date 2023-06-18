@@ -51,10 +51,10 @@
 	"editor.linkedEditing": true,
 	"editor.guides.bracketPairs": true,
 	"[javascriptreact]": {
-		"editor.defaultFormatter": "vscode.typescript-language-features",
-	}
-	"emmet.includeLanguages": {
-		"javascript: javascriptreact"
+		"editor.defaultFormatter": "vscode.typescript-language-features"
 	},
-	"emmet.triggerExpansionOnTab":  true
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"emmet.triggerExpansionOnTab": true
 }
