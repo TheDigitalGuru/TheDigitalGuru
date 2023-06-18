@@ -18,14 +18,19 @@ git add <filename> > Add file(s) to staging area
 git add . > Adds everything in the directory 
 git rm --cached <filename> > removes the file from cache
 git status > Check status of working tree
-git commit > Commit changes in staging area - summarize your changes
+git commit -m > Commit changes in staging area > -m is the flag for adding message > summarize your changes
 git push > Push to remote repo
 git pull > Pulls latest from remote repo
 git clone > Clone remote repo locally
 git branch <branchname> Create a new branch
 git checkout <branchname> Switch to a branch
+git checkout -b <branchname> Creates branch and switches to it at the same time
 git merge <branchname> Merge a branch with another
 git log > Few all commits
+touch .gitignore <filename> > creates a ignore file - then open ignore file and add filenames of files to ignore
+git remote add origin <url>
+git push -u origin master
+
 
 git config --global user.name 'YourUserName'
 git config --global user.email 'YourPrivateorPublicEmailAddress'
