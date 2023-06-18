@@ -49,6 +49,7 @@ Powershell
 Prettier - code formatter
 Python
 Pylance
+Quokka.js
 React Hooks Snippets
 Stylelint
 Tabnine
