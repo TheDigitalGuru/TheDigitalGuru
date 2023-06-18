@@ -27,7 +27,10 @@ Format HTML in PHP
 Git Blame
 Git Branch Warning
 Git Essentials
-Git Graph, History, Merger, Tags,
+Git Graph
+Git History
+Git Merger
+Git Tags
 Git-autoconfig
 gitignore
 GitLab Workflow
@@ -40,13 +43,16 @@ Javascript es6 code snippets
 Kubernetes
 Live Server
 Microsoft Edge Tools for VS Code
+NPM Intellisense
 Open in GitHub
 Powershell
 Prettier - code formatter
 Python
+Pylance
 React Hooks Snippets
 Stylelint
 Tabnine
+Tailwind Shades
 TODO highlight
 Turbo Console Log
 VSCode-icons
