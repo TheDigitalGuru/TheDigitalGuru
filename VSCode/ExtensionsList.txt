@@ -18,21 +18,37 @@ Code Spell Checker
 CodeSnap
 Colorize
 CSS Peek
+Debugger for Firefox
+Dev Containers
 Docker
+ES7+ React/Redux/React-Native snippets
 ESLint
 Format HTML in PHP
+Git Blame
+Git Branch Warning
+Git Essentials
+Git Graph, History, Merger, Tags,
+Git-autoconfig
+gitignore
+GitLab Workflow
+Gitlens
 HTML CSS Support
 HTMLHint
 Icon fonts
 Import Costs
 Javascript es6 code snippets
+Kubernetes
 Live Server
 Microsoft Edge Tools for VS Code
+Open in GitHub
 Powershell
 Prettier - code formatter
 Python
+React Hooks Snippets
 Stylelint
 Tabnine
 TODO highlight
 Turbo Console Log
 VSCode-icons
+YAML
+WSL
