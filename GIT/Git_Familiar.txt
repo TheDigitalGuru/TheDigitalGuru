@@ -1,0 +1,25 @@
+Install GIT 
+
+Winodws & Mac: 
+https://git-scm.com/download/win 
+https://git-scm.com/download/mac
+
+Linux (Debian/Ubuntu)
+apt-get install git
+
+Linux (Fedora)
+Yum install git version up to 21
+dnf install git Version 22 and later
+
+Basic Commands
+
+git init > initialize local git repo
+git add <file> > Add file(s) to staging area
+git status > Check status of working tree
+git commit > Commit changes in staging area
+git push > Push to remote repo
+git pull > Pulls latest from remote repo
+git clone > Clone remote repo locally
+git branch <branchname> Create a new branch
+git checkout <branchname> Switch to a branch
+git merge <branchname> Merge a branch with another
