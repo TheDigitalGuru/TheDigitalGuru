@@ -12,6 +12,7 @@ Night Owl Theme
 ##Extensions: 
 Auto close tag
 Auto Rename tag
+Awesome Flutter Snippets
 Better Comments
 Bookmarks
 Code Spell Checker
@@ -45,12 +46,16 @@ Live Server
 Microsoft Edge Tools for VS Code
 NPM Intellisense
 Open in GitHub
+Paste JSON as Code
 Powershell
 Prettier - code formatter
 Python
 Pylance
 Quokka.js
 React Hooks Snippets
+Remote Containers
+Remote Repositories
+Remote SSH
 Stylelint
 Tabnine
 Tailwind Shades
