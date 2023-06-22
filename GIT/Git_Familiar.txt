@@ -20,7 +20,7 @@
   git config --global user.email 'YourPrivateorPublicEmailAddress'
 
 
-<h3>Basic Git Commands<h3/>
+###Basic Git Commands:
 
 #Clone a repository: 
   git clone <https://name-of-the-repository-link>
