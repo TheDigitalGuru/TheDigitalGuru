@@ -1,5 +1,4 @@
 {
-	"workbench.colorTheme": "Night Owl Theme",
 	"liveServer.settings.donotShowInfoMsg": true,
 	"terminal.integrated.profiles.windows": {
 		"PowerShell": {
@@ -31,10 +30,9 @@
 	"editor.inlineSuggest.enabled": false,
 	"files.autoSave": "onFocusChange",
 	"workbench.iconTheme": "vscode-icons",
-	"editor.autoClosingBrackets": "beforeWhitespace",
+	"editor.autoClosingBrackets": "always",
 	"editor.fontSize": 16,
 	"explorer.confirmDragAndDrop": false,
-	"javascript.suggest.autoImports": false,
 	"editor.codeActionsOnSave": {
 		"source.fixAll": true,
 		"source.sortImports": true
@@ -43,7 +41,6 @@
 	"[css]": {
 		"editor.suggest.insertMode": "replace"
 	},
-	"tabnine.experimentalAutoImports": true,
 	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
 	"editor.language.brackets": [],
 	"terminal.integrated.sendKeybindingsToShell": true,
@@ -56,5 +53,36 @@
 	"emmet.includeLanguages": {
 		"javascript": "javascriptreact"
 	},
-	"emmet.triggerExpansionOnTab": true
+	"emmet.triggerExpansionOnTab": true,
+	"editor.fontFamily": "'Courier New', monospace",
+	"terminal.integrated.fontFamily": "FiraCode Nerd Font",
+	"security.allowedUNCHosts": ["wsl.localhost"],
+	"bookmarks.saveBookmarksInProject": true,
+	"cSpell.showAutocompleteSuggestions": true,
+	"codesnap.transparentBackground": true,
+	"less.format.spaceAroundSelectorSeparator": true,
+	"less.lint.duplicateProperties": "warning",
+	"less.lint.float": "warning",
+	"emmet.showSuggestionsAsSnippets": true,
+	"gitlab.aiAssistedCodeSuggestions.enabled": true,
+	"prettier.bracketSameLine": true,
+	"prettier.jsxSingleQuote": true,
+	"turboConsoleLog.addSemicolonInTheEnd": true,
+	"turboConsoleLog.wrapLogMessage": true,
+	"javascript.format.insertSpaceAfterConstructor": true,
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+	"javascript.format.semicolons": "insert",
+	"typescript.format.semicolons": "insert",
+	"reactSnippets.settings.prettierEnabled": true,
+	"telemetry.telemetryLevel": "off",
+	"workbench.colorTheme": "Night Owl Theme",
+	"window.restoreFullscreen": true,
+	"terminal.integrated.defaultProfile.linux": "bash",
+	"colorize.colorized_colors": [
+		"ARGB",
+		"BROWSERS_COLORS",
+		"HEXA",
+		"RGB",
+		"HSL"
+	]
 }
