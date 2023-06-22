@@ -1,39 +1,70 @@
-GitHub Desktop: 
+##Install Git: 
+#GitHub Desktop: 
 https://desktop.github.com/
 
-Git: 
+##Install Git: 
 winget install --id Git.Git -e --source winget
 
-GitHub CLI:
+##Install GitHub CLI:
+#Windows
 winget install --id GitHub.cli	
-
-Linux (Debian/Ubuntu)
+#Linux (Debian/Ubuntu)
 apt-get install git
-
-Linux (Fedora)
+#Linux (Fedora)
 Yum install git version up to 21
 dnf install git Version 22 and later
 
-Basic Commands
+##Configure Git: 
+git auth login
+git config --global user.name 'YourUserName'
+git config --global user.email 'YourPrivateorPublicEmailAddress'
+
+##Basic Commands
+#Clone a repository: 
+git clone <https://name-of-the-repository-link>
+
+#Get Branch:
+git branch <branch-name> > Create a branch locally:
+git push -u <remote> <branch-name> > Push a branch to repository 
+git branch or git branch --list > View a branch
+git branch -d <branch-name> > Delete a branch
+
+#Git checkout:
+git checkout <brachname> > Switch to a branch
+git checkout -b <branchname> > Creates branch and switches to it at the same time
+
+#Git Status: 
+git status > Check status of working tree
+
+#Git Add
+git add <filename> > Add file(s) to staging area
+git add -A or git add . > Adds everything in the directory 
+
+#Git commit
+git commit -m > Commit changes in staging area > -m is the flag for adding message > summarize your changes
+
+#Git push
+git push <remote> <branch-name> > Push to remote repo
+
+if your branch is newly created locally, you need to 
+git push --set-upstream <remote> <name-of-your-branch>
+or use
+git push -u origin <branch_name>
+git push -u origin master
+Git push only upload committed changes
+
+#Git Pull
+git pull <remote> > Pulls latest from remote repolone > Clone remote repo locally
+
+
+
 
 git init > initialize local git repo
-git add <filename> > Add file(s) to staging area
-git add . > Adds everything in the directory 
 git rm --cached <filename> > removes the file from cache
-git status > Check status of working tree
-git commit -m > Commit changes in staging area > -m is the flag for adding message > summarize your changes
-git push > Push to remote repo
-git pull > Pulls latest from remote repo
-git clone > Clone remote repo locally
-git branch <branchname> Create a new branch
-git checkout <branchname> Switch to a branch
-git checkout -b <branchname> Creates branch and switches to it at the same time
 git merge <branchname> Merge a branch with another
 git log > Few all commits
 touch .gitignore <filename> > creates a ignore file - then open ignore file and add filenames of files to ignore
 git remote add origin <url>
-git push -u origin master
 
 
-git config --global user.name 'YourUserName'
-git config --global user.email 'YourPrivateorPublicEmailAddress'
+
