@@ -1,5 +1,6 @@
 #My_Bashrc_Aliases_File
 
+#Update & Upgrade
 alias uu='sudo apt update && sudo apt upgrade -y' #Alias to quickly Update & Upgrade system
 
 #Navigation_Aliases
@@ -14,5 +15,5 @@ alias pjs='cd ~/Documents/Projects'  #Aliases to Change Directory to my projects
 
 #History
 #Capture history to file for documenting and understanding my code
-alias rec='history > ~/Documents/LoggedProgress/Record-$(date +"%Y-%m-%d-%H:%M:%S")'
+alias rec='history > ~/Documents/LoggedProgress_bash/Record-$(date +"%Y-%m-%d-%H:%M:%S")'
 alias cln='history -c' #Clean history so I don't capture too much info
