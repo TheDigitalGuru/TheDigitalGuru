@@ -1,4 +1,4 @@
-#My_Bashrc_Aliases_File
+#My_zshrc_Aliases_File
 
 #Update & Upgrade
 alias uu='sudo apt update && sudo apt upgrade -y' #Alias to quickly Update & Upgrade system
