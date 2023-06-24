@@ -16,6 +16,8 @@ if [ -x /usr/bin/dircolors ]; then
     alias fgrep='fgrep --color=auto'
     alias egrep='egrep --color=auto'
 fi
+
+# Alias definitions.
 if [ -f ~/.zsh_aliases ]; then
     . ~/.zsh_aliases
 fi
