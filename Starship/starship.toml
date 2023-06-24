@@ -41,7 +41,7 @@ error_symbol = '[✗](bold red) '
 
 [cmd_duration]
 format = "[  $duration ]($style)"
-style = "fg:bright-white bg:18"
+style = "fg:bright-white bg:blue"
 
 [directory]
 style = "fg:#E4E4E4 bg:#3B76F0"
@@ -52,12 +52,12 @@ truncation_length = 8
 truncation_symbol = '…/'
 
 [directory.substitutions]
-"Documents" = "󰈙 "
-"Downloads" = " "
-"Music" = " "
-"Pictures" = " "
-"Desktop" = " "
-"Projects" = " "
+"Documents" = "󰈙"
+"Downloads" = ""
+"Music" = ""
+"Pictures" = ""
+"Desktop" = ""
+"Projects" = ""
 
 [docker_context]
 format = "via [🐳 $context](bold blue) "
@@ -136,6 +136,6 @@ format = '[ 🕙 $time ]($style)'
 [username]
 style_user = "fg:#3B76F0 bg:#1d2230"
 style_root = 'black bold'
-format = '[  $user]($style) '
+format = '[ $user]($style) '
 disabled = false
 show_always = true
