@@ -80,6 +80,20 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# find out which distribution we are running on
+_distro=$(awk '/^ID=/' /etc/*-release | awk -F'=' '{ print tolower($2) }')
+
+# set an icon based on the distro
+case $_distro in
+        *kali*)                 ICON="";;
+        *raspbian*)             ICON="🍓";;
+        *ubuntu*)               ICON="🐧";;
+        *)                      ICON="";;
+esac
+
+export STARSHIP_DISTRO="$ICON "
+export STARSHIP_CONFIG=/home/digital/.config/starship.toml
+
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
