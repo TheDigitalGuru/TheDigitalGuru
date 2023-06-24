@@ -5,7 +5,8 @@ function colormap() {
         for i in {0..255}; do print -Pn  "%K{$i}  %k%F{$i}${(l:3::0:)i}%f " ${${(M)$((i%6)):#3}:+$'\n'}; done
 }
 
-# Alias Commands
+
+# enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
     test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
     alias ls="exa --icons --group-directories-first"
