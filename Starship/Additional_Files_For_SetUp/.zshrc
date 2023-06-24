@@ -11,6 +11,10 @@ alias ll="exa --icons --group-directories-first -l"
 alias g="goto"
 alias grep='grep --color'
 
+if [ -f ~/.zsh_aliases ]; then
+    . ~/.zsh_aliases
+fi
+
 # find out which distribution we are running on
 _distro=$(awk '/^ID=/' /etc/*-release | awk -F'=' '{ print tolower($2) }')
 
