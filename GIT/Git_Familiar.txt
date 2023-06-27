@@ -66,6 +66,17 @@
 #Git Merge
   git merge <branchname> Merge a branch with another
 
+To discard local changes and update local repo from remote, you can use the following command:
+
+git reset --hard origin/<branch>
+
+This command will discard and overwrite all of your uncommitted local changes and set the state of the branch to the state of the remote you just fetched1.
+
+Alternatively, you can use the following command:
+
+git fetch --all && git reset --hard origin/<branch>
+
+This command will discard all local changes and pull from upstream2.
 
 
 git init > initialize local git repo
