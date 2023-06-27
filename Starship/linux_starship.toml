@@ -87,7 +87,7 @@ diverged = "🏎️💨⇕⇡${ahead_count} 🐢⇣${behind_count}"
 behind = "🐢⇣${count}"
 stashed = "📦 "
 modified = "📝"
-staged = '[🗃️+\($count\)](style)'
+staged = '[🗃️  \($count\)](style) '
 renamed = "📛"
 deleted = "🗑️"
 
