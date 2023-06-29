@@ -46,5 +46,5 @@ alias trim="awk '{\$1=\$1;print}'"
 alias throwit='trash-empty'
 alias reviveit='trash-restore'
 alias trashit='trash-put'
-alias rm='trash"
+alias rm='trash-out"
 
