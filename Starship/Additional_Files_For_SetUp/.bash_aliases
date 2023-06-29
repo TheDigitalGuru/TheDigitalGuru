@@ -44,7 +44,7 @@ if [ -x /usr/bin/dircolors ]; then
     alias fgrep="fgrep --color=auto"
     alias egrep="egrep --color=auto"
 fi
-#sudo install exa
+#sudo apt install trash-cli
 
 #trimming strings
 alias trim="awk '{\$1=\$1;print}'"
@@ -57,4 +57,3 @@ alias trash='trash-put'
 alias rm='trash-put'
 #Add extra protection against mistakes
 #alias rm='rm -I'
-
