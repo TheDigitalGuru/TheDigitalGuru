@@ -1,5 +1,3 @@
-eval "$(starship init bash)"
-
 # If not running interactively, don't do anything
 case $- in
     *i*) ;;
@@ -7,8 +5,8 @@ case $- in
 esac
 
 # don't put duplicate lines or lines starting with space in the history.
-# See bash(1) for more options
 HISTCONTROL=ignoreboth
+# See bash(1) for more options
 
 # append to the history file, don't overwrite it
 shopt -s histappend
@@ -38,36 +36,42 @@ case "$TERM" in
     xterm-color|*-256color) color_prompt=yes;;
 esac
 
-#Colormap
+#####  Function to Show a Colormap on demand  ############
 function colormap() {
         for i in {0..255}; do print -Pn  "%K{$i}  %k%F{$i}${(l:3::0:)i}%f " ${${(M)$((i%6)):#3}:+$'\n'}; done
 }
 
-# enable color support of ls and also add handy aliases
-if [ -x /usr/bin/dircolors ]; then
-    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
-    alias ls="exa --icons --group-directories-first"
-    alias ll="exa --icons --group-directories-first -l"
-    alias dir='dir --color=auto'
-    alias vdir='vdir --color=auto'
-    alias grep='grep --color-auto'
-    alias fgrep='fgrep --color=auto'
-    alias egrep='egrep --color=auto'
-fi
-
 # colored GCC warnings and errors
 export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-# Add an "alert" alias for long running commands.  Use like so:
-#   sleep 10; alert
+#####  Function to make directory then cd into it  ############
+#
+function take { 
+	mkdir -p $1
+	cd $1
+}
 
-alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;>
+#####  Docker Functions ############
+#
+function dclear {
+	docker ps -a -q | xargs docker kill -f 
+	docker ps -a -q | xargs docker rm -f
+	docker images | awk "{print $3}" | xargs docker rmi -f
+	docker volume prune -f
+}
 
-# Alias definitions.
-# See /usr/share/doc/bash-doc/examples in the bash-doc package.
+#####  Quick Notes  ############
+function note {
+	echo "date: $(date)" >> $HOME/drafts.txt
+	echo "$@" >> $HOME/drafts.txt
+	echo "" >> $HOME/drafts.txt
+}
+
+#####  Function to Source Alias definitions into seperate File  ############
 if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.
 
 # enable programmable completion features (you don't need to enable
 # this, if it's already enabled in /etc/bash.bashrc and /etc/profile
@@ -80,9 +84,9 @@ if ! shopt -oq posix; then
   fi
 fi
 
+#####  Functions for Starship  ############
 # find out which distribution we are running on
 _distro=$(awk '/^ID=/' /etc/*-release | awk -F'=' '{ print tolower($2) }')
-
 # set an icon based on the distro
 case $_distro in
         *kali*)                 ICON="";;
@@ -90,10 +94,12 @@ case $_distro in
         *ubuntu*)               ICON="🐧";;
         *)                      ICON="";;
 esac
-
 export STARSHIP_DISTRO="$ICON "
 export STARSHIP_CONFIG=/home/digital/.config/starship.toml
+#Invoke starship toml file
+eval "$(starship init bash)"
 
+#####  Functions for NVM  ############
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
