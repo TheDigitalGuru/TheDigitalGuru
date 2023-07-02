@@ -1,0 +1,35 @@
+## Delete request
+DELETE http://localhost:1337/api/reviews/2 
+
+## Update request
+PULL http://localhost:1337/api/reviews/2 
+
+## Post creation
+POST http://localhost:1337/api/reviews
+(Raw/JSON)
+{
+	"data": {
+		"content": "This is my review",
+		"rating": "four"
+		"item": 3
+	}
+}
+
+##Filter GET
+find users having "john" as first name: 
+GET http://localhost:1337/api/reviews
+
+find items having a price equal or greater than 30 : 
+GET http://localhost:1337/api/items?fitlers[price][$gte]=30
+
+## Authentication Post
+POST http://localhost:1337/api/auth/local/register
+(Raw/JSON)
+{
+	"username": "Matt Berge",
+	"email": "ex@ex.com"
+	"password": "password!"
+}
+in order to make authenticated request, need auth key in headers
+key: 				value:
+Authorization			Bearer lksajdfl98723hkj <= token
